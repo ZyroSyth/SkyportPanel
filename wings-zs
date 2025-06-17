@@ -13,4 +13,4 @@ echo "cd skyportd"
 
 echo "Paste Your Node Configure"
 
-echo "pm2 start .
+echo "pm2 start ."
