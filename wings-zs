@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Step 1: Installing Files
+
+git clone https://github.com/achul123/skyportd.git
+
+cd skyportd
+
+npm install
+
+
+echo "cd skyportd"
+
+echo "Paste Your Node Configure"
+
+echo "pm2 start .
